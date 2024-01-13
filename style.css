@@ -1,0 +1,87 @@
+.header {
+    display: block;
+    background-color: rgb(21, 21, 80);
+    color: white;
+    height: 180px;
+    padding-top: 30px;
+    margin-top: 0;
+}
+.header h1{
+    text-align: center;
+    
+}
+
+.table tr th a{
+    text-decoration: none;
+    display: block;
+    color: antiquewhite;
+}
+.table{
+ border: 1.5px solid;
+ width: 100%;
+ background-color: rgb(51, 51, 75);
+}
+.home{
+    font-size: 19px;
+    padding: 13px;
+    border-left:2px solid rgb(183, 167, 212); 
+    
+}
+#home{
+    border-left:none ;
+}
+th:hover{
+    background-color: rgb(57, 57, 104); 
+}
+.nav table tr th a:hover{
+    color: rgb(31, 31, 51);
+}
+.container .h1{
+    text-align: center;
+    background-color: rgb(148, 160, 182);
+    padding: 15px;
+    font-family: Broadway;
+    color: rgb(39, 39, 43);
+}
+
+
+
+
+.container table tr th a{
+    text-decoration: none;
+    display: block;
+    color: white;
+}
+ .container table{
+ border: 1.5px solid;
+ width: 70%;
+ background-color: rgb(42, 2, 104);
+ 
+}
+.home{
+    font-size: 19px;
+    padding: 13px;
+    border-left:2px solid rgb(183, 167, 212); 
+    
+}
+#home{
+    border-left:none ;
+}
+th:hover{
+    background-color: rgb(162, 162, 177); 
+}
+.nav table tr th a:hover, .container table tr th a:hover{
+    color: rgb(31, 31, 51);
+}
+#Burgers, #Topping{
+    border-left:none ; 
+}
+
+.container ul{
+    list-style-type: none;
+}
+.container li{
+    font-size: 23px;
+    font-weight: bold;
+    
+}
